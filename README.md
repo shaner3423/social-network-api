@@ -1,7 +1,7 @@
 # social-network-api
 Module 18 - NoSQL: Social Network API
 
-### Github : 
+### Github : https://github.com/shaner3423/social-network-api
 
 ### Walkthrough video 
 #### Users CRUD :
